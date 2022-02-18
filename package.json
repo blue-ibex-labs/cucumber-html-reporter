@@ -1,6 +1,6 @@
 {
   "name": "cucumber-to-html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert Cucumber JSON reports to HTML",
   "main": "index.js",
   "typings": "./index.d.ts",

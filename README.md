@@ -1,3 +1,4 @@
+
 # cucumber-to-html
 
 
@@ -276,9 +277,20 @@ Attach JSON to HTML report
 
 ```
 
+## publishing npm package
+
+- make sure you have an account and access token from https://www.npmjs.com/
+- make changes in package.json as you need
+- `npm login`
+  - provide username 
+  - password
+- `npm publish`
+
+
 ## Changelog
 
 [changelog][1]
 
 
 [1]: https://www.npmjs.com/package/cucumber-to-html
+
